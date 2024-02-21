@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vN1oLc9b2/m+ntqpHrlgMBo+QHRnCSPuiQfauCQsHEWe24qCCn1svYPW1uYhAwalJg8WNp/TBUj7V+Ooz2/uRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\ViewBoolAsync\\LibrarianView\\LibrarianViewUsers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\mysqlconnector\\2.3.5\\mysqlconnector.2.3.5.nupkg.sha512"
+  ],
+  "logs": []
+}
